@@ -1,1 +1,1 @@
-My Java projects 
+Java projects 
